@@ -1,0 +1,15 @@
+{
+  "name": "ddfa-typed",
+  "version": "0.0.1",
+  "description": "Custom type defintions for DDFA",
+  "repository": "https://github.com/davidvuong/ddfa-typed",
+  "author": "David Vuong <david.vuong256@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "joi": "10.4.2"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.63.1"
+  }
+}
