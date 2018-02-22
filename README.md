@@ -13,7 +13,7 @@ yarn add ddfa-typed --dev
 ```es6
 import type { User } from 'ddfa-typed/Models/User';
 
-const currentUser: ddfaTypes.models.User = {
+const currentUser: User = {
   id: '...',
   name: 'David Vuong',
   username: 'david',
